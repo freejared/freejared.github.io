@@ -36,3 +36,6 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+<img src="GOPR0030.JPG" />
+[image][GOPR0030.JPG]
